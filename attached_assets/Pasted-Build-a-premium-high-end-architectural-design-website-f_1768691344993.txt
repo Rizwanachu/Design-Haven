@@ -1,0 +1,146 @@
+Build a premium, high-end architectural design website for a brand called “FutureDwell”.
+
+Brand Identity
+- Industry: Architectural Design, Modern Homes, Smart Living
+- Brand vibe: Futuristic, luxurious, minimal, confident, innovative
+- Color palette: Deep navy / near-black backgrounds with cyan, teal, and electric blue neon accents
+- Style: Luxury minimalism with subtle glows, gradients, and generous spacing
+- Mood: Calm, premium, future-focused (not flashy)
+
+Typography
+- Headings: Modern futuristic sans-serif, bold and confident
+- Body text: Clean, readable sans-serif with excellent spacing
+- Strong hierarchy between headlines, subheadlines, and body text
+
+Site Structure (Hybrid)
+- Main landing page with smooth scrolling between sections
+- Dedicated pages:
+  - /portfolio — full project gallery
+  - /contact — expanded contact page
+
+Navigation
+- Sticky header with smooth scroll links
+- Dark theme by default
+- Responsive across desktop, tablet, and mobile
+
+————————————
+LANDING PAGE SECTIONS
+————————————
+
+1. Hero Section (Full viewport)
+- Dark background with subtle animated gradient glow
+- Soft architectural grid or circuit-style pattern in background
+- Main headline: “Designing the Future of Living”
+- Subheadline focused on innovation, technology, and aesthetics
+- Two CTA buttons:
+  - “View Our Work”
+  - “Book a Consultation”
+- Subtle fade-in animations on load
+
+2. About FutureDwell
+- Two-column layout
+- Strong brand statement with glowing accent text
+- Four pillars displayed as cards or icons:
+  - Innovation
+  - Functionality
+  - Sustainability
+  - Future-ready
+- Gentle hover animations
+
+3. Services Section
+- Five service cards with custom glowing icons:
+  - Architectural Design
+  - Modern Home Planning
+  - Smart Home Integration
+  - Interior & Exterior Design
+  - 3D Visualization & Concepts
+- Soft neon borders and glow on hover
+- Clean grid layout
+
+4. Featured Projects (Preview)
+- Grid of 6 futuristic architectural images
+- Elegant hover overlays showing project name and category
+- Button: “View All Projects” → links to /portfolio
+
+5. Why Choose FutureDwell
+- Five key differentiators with icons:
+  - Future-focused design approach
+  - Technology-driven architecture
+  - Clean modern aesthetics
+  - Client-centric process
+  - Attention to detail
+- Alternating layout
+- Subtle scroll-triggered animations
+
+6. Process Section
+- 4-step timeline with glowing connectors:
+  1. Consultation
+  2. Concept & Planning
+  3. Design & Visualization
+  4. Final Delivery
+- Clean, linear, easy-to-understand flow
+
+7. Call to Action Banner
+- Dark gradient background
+- Headline: “Let’s Build the Future Together”
+- Prominent glowing button: “Start Your Project”
+
+8. Contact Section
+- Clean, premium contact form with fields:
+  - Name
+  - Email
+  - Project Details
+- Form must be functional
+- Save submissions to Lovable Cloud database
+- Show friendly validation messages
+- Display contact info and social icons
+
+————————————
+PORTFOLIO PAGE (/portfolio)
+————————————
+- Full gallery of projects
+- Category filtering
+- Hover overlays with project details
+- Same futuristic dark theme
+
+————————————
+CONTACT PAGE (/contact)
+————————————
+- Expanded contact form
+- Same backend form functionality
+- Clear call to action
+- Trust-building layout
+
+————————————
+BACKEND REQUIREMENTS (Lovable Cloud)
+————————————
+- Create database table for contact submissions
+- Store:
+  - Name
+  - Email
+  - Project details
+  - Submission date
+- Basic input validation and sanitization
+
+————————————
+IMAGERY
+————————————
+Use AI-generated futuristic architecture visuals:
+- Modern glass villa
+- Smart home with integrated technology
+- Minimalist luxury interior
+- Geometric modern exterior
+- Sustainable eco-home
+- Luxury penthouse concept
+
+————————————
+ANIMATIONS & UX
+————————————
+- Subtle and elegant animations only
+- Smooth scroll
+- Gentle hover effects
+- Soft neon glow on interactive elements
+- No heavy or distracting motion
+
+Overall Goal
+Create an agency-quality, premium architectural website that feels expensive, trustworthy, modern, and future-ready. The site should clearly position FutureDwell as a high-end architectural design brand.
