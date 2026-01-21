@@ -28,7 +28,7 @@ export function Navbar() {
     >
       <div className="container mx-auto px-6 flex items-center justify-between">
         <Link href="/" className="text-2xl font-display font-bold tracking-widest text-primary text-glow cursor-pointer">
-          AETHER<span className="text-white">ARCH</span>
+          FUTURE<span className="text-white">DWELL</span>
         </Link>
 
         {/* Desktop Links */}
